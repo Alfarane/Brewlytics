@@ -5,6 +5,10 @@ Sales Insights Dashboard for a Coffee Shop Using MySQL and Power BI
 
 The objective of this project is to analyze sales, orders, and quantities sold for a coffee shop to derive actionable insights and key performance indicators (KPIs).
 
+SS of the Dashboard:
+
+![image](https://github.com/user-attachments/assets/80061bd4-4462-4686-b38b-821c2e353758)
+
 ## KPI Requirements
 
 ### 1. Total Sales Analysis
