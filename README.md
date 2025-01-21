@@ -51,4 +51,7 @@ The objective of this project is to analyze sales, orders, and quantities sold f
 - Utilize a heat map to visualize sales patterns by days and hours.
 - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
 
+SS of the Dashboard:
+![image](https://github.com/user-attachments/assets/80061bd4-4462-4686-b38b-821c2e353758)
+
 
